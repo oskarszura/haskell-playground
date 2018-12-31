@@ -1,0 +1,7 @@
+.idea/
+*.hi
+*.o
+
+first-steps/hello-world/hello
+first-steps/webserver/webserver
+first-steps/json-package/simple
